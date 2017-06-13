@@ -1,0 +1,2 @@
+# install youtube search api package
+npm install youtube-api-search --save
