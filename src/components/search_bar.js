@@ -20,7 +20,7 @@ class SearchBar extends Component{
     }
 
     render(){
-        console.log(this.state.item,"item");
+
         return(
             <div>
                 <input onChange={this.onInputChange}/>
