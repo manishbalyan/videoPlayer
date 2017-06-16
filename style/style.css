@@ -1,0 +1,23 @@
+.search-bar{
+    margin: 20px;
+    text-align: center;
+}
+.search-bar input{
+    width: 50%;
+    padding: 5px;
+}
+.main-heading{
+    float: left;
+    margin-left: 11px;
+    font-weight: 600;
+    color: #70767b;
+}
+.details{
+    margin: 20px;
+}
+.details .heading{
+    font-weight: 600;
+}
+.details .desc{
+    margin-top: 10px;
+}
