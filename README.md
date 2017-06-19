@@ -1,2 +1,2 @@
-# Video player using react and redux
+# Video player using react
 
